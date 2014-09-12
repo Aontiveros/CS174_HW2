@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+body 
+{ 
+  background: #EAE9E3;
+  color: #2e2d29;
+}
+a:link 
+{
+    color: #8c1515;
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited
+{
+    color: blue;
+}
+
+/* mouse over link */
+a:hover 
+{
+    color: green;
+    font-weight:bold;
+}
+
+/* selected link */
+a:active 
+{
+    color: #8c1515;
+}
+img
+{
+	background-color: transparent;
+	border: 6px solid #c4bfa9;
+	width: 120px;
+	height: 180px;
+}
+p
+{
+	text-align:center;
+}
+
+h1
+{
+	color: #8c1515;
+	font-size: 20;
+}
+td
+{
+	padding:15px;
+}
